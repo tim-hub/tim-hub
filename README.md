@@ -1,7 +1,7 @@
 ### Architect, Developer 👋
 
 
-- 🔭 I’m currently working on MCF
+- 🔭 I’m currently working on MCF (we are an AI tech company)
 - 💬 Ask me about tech stacks/atchitecture
 - 📫 How to reach me: [tim.bai.uno](https://tim.bai.uno)
 
@@ -13,7 +13,7 @@ Python, Typescript, Javascript
 
 > 🌱 My stacks
 
-Django, Express, React, Node, Tensorflow
+Django, Express, React, Node, Pandas, Tensorflow
 
 > 🌱 My architectures
 

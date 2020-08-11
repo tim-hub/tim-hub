@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working on MCF (we are an AI tech company)
-- 💬 Ask me about tech stacks/atchitecture
+- 💬 Ask me about tech stacks/atchitecture, aws/serverless, kubernetes
+- 🌱 My Languages: Python, Typescript, Javascript
 - 📫 How to reach me: [tim.bai.uno](https://tim.bai.uno)
 
 
@@ -15,9 +16,7 @@
 
 <!--
 ---
-> 🌱 My Languages
 
-Python, Typescript, Javascript
 
 > 🌱 My stacks
 

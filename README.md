@@ -8,11 +8,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true)
 
---- 
-[![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=Hypothesis-Assistant)](https://github.com/tim-hub/Hypothesis-Assistant)
 
-
-<!--[![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=pambdajs)](https://github.com/tim-hub/pambdajs)-->
+<!--[![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=Hypothesis-Assistant)](https://github.com/tim-hub/Hypothesis-Assistant)
+[![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=pambdajs)](https://github.com/tim-hub/pambdajs)-->
 
 
 <!--

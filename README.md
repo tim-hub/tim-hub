@@ -1,4 +1,4 @@
-
+<!--
 #### Language
 <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /> <img src="https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
 
@@ -12,7 +12,7 @@
 #### Database
 <img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" /> <img src="https://img.shields.io/badge/redis-%23a51f17.svg?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
 
-#### Github
+#### Github -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true)
 
 

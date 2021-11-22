@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" /> <img src="https://img.shields.io/badge/redis-%23a51f17.svg?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
 
 #### Github -->
-![tim-hub github Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true) ![tim-hub language used](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-hub&langs_count=10&layout=compact&hide=shaderLab,glsl,objective-c,php,java,hlsl,vue,uno,apacheconf,ruby,objective-c%2B%2B,html)
+![tim-hub github Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true) 
+
+<!--![tim-hub language used](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-hub&langs_count=10&layout=compact&hide=shaderLab,glsl,objective-c,php,java,hlsl,vue,uno,apacheconf,ruby,objective-c%2B%2B,html)-->
 
 
 <!--[![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=Hypothesis-Assistant)](https://github.com/tim-hub/Hypothesis-Assistant)

@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" /> <img src="https://img.shields.io/badge/redis-%23a51f17.svg?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
 
 #### Github -->
-![tim-hub github Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true) 
 
 <!--![tim-hub language used](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-hub&langs_count=10&layout=compact&hide=shaderLab,glsl,objective-c,php,java,hlsl,vue,uno,apacheconf,ruby,objective-c%2B%2B,html)-->
 
@@ -22,18 +21,18 @@
 [![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=pambdajs)](https://github.com/tim-hub/pambdajs)-->
 
 
-<!--
+
 ---
+**Cat, Cook and Code.**
 
 
+<!--
 > 🌱 My stacks
+> 
+> Django, Python, NodeJS, React, Pandas, Tensorflow
 
-Django, Express, React, Node, Pandas, Tensorflow
-
-> 🌱 My architectures
-
-Miscroservices, Serverless
 -->
+
 
 <!--
 **tim-hub/tim-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,3 +48,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+![tim-hub github Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true&show_icons=true&theme=default) 
+

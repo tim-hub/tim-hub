@@ -25,6 +25,17 @@
 ---
 **Cat, Cook and Code.**
 
+- I am working in Legal Tech as a Senior Engineer in the team.
+- I am preparing to make a video tutorial for people to start full stack development.
+- I like to build side projects besides work as well.
+  - [Currency Exchange API](https://github.com/tim-hub/obsidian-bible-reference)
+  - [Obsidian Bible Reference Plugin](https://github.com/tim-hub/sanic-currency-exchange-rates-api)
+  - Scroll down to see more
+- I like to share my experience and what I have learnt as well
+  - [Hexagonal Architecture](https://github.com/tim-hub/nestjs-hexagonal-example)
+  - [How to choose AWS Storage](https://medium.com/@TechTim42/how-to-choose-aws-data-store-6a5c9bb5dc3b?source=your_stories_page-------------------------------------) 
+
+
 
 <!--
 > 🌱 My stacks
@@ -51,6 +62,7 @@ Here are some ideas to get you started:
 
 
 ---
+
 
 ![tim-hub github Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true&show_icons=true&theme=default) 
 

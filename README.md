@@ -22,7 +22,7 @@
 
 
 
----
+
 **Cat, Cook and Code.**
 
 - I am working in Legal Tech as a Senior Engineer in the team.
@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 -->
 
 
----
 
 
+<!--
 ![tim-hub github Stats](https://github-readme-stats.vercel.app/api?username=tim-hub&count_private=true&show_icons=true&theme=default) 
-
+-->

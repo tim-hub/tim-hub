@@ -21,7 +21,7 @@
 [![Hypothesis](https://github-readme-stats.vercel.app/api/pin/?username=tim-hub&repo=pambdajs)](https://github.com/tim-hub/pambdajs)-->
 
 
-
+<!--
 
 **Cat, Cook and Code.**
 
@@ -35,7 +35,7 @@
   - [Hexagonal Architecture](https://github.com/tim-hub/nestjs-hexagonal-example)
   - [How to choose AWS Storage](https://medium.com/@TechTim42/how-to-choose-aws-data-store-6a5c9bb5dc3b?source=your_stories_page-------------------------------------) 
 
-
+-->
 
 <!--
 > 🌱 My stacks

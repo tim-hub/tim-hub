@@ -1,3 +1,11 @@
+
+
+- 🖥️  See my portfolio at [TechTim42.com](https://techtim42.com)
+- 🚀  I'm currently working on [TradeInsight.info](https://tradeinsight.info), it is a tool to bring insight information for investors.
+- ⚡  If you ask me where to invest next, I would say the robotics industry.
+
+
+
 <!--
 #### Language
 <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /> <img src="https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />

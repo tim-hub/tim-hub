@@ -1,8 +1,8 @@
 
 
-- 🖥️  See my portfolio at [TechTim42.com](https://techtim42.com)
-- 🚀  I'm currently working on [TradeInsight.info](https://tradeinsight.info), it is a tool to bring insight information for investors.
-- ⚡  If you ask me where to invest next, I would say the robotics industry.
+- 🖥️  Check out my portfolio at [TechTim42.com](https://techtim42.com)
+- 🚀  I'm currently working on [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights.
+  <!-- - ⚡  If you ask me where to invest next, I would say the robotics industry. -->
 
 
 

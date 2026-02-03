@@ -1,6 +1,6 @@
 
 
-- 🖥️  Check out [my blog](https://tim.bai.uno)
+- 🖥️  Check out [my blog](https://tim.bai.uno) | my [bento profile](https://techtim42.bai.uno/)
 - 🚀  I'm currently working on [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights.
   <!-- - ⚡  If you ask me where to invest next, I would say the robotics industry. -->
 

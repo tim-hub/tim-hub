@@ -1,7 +1,12 @@
 
 
-- 🖥️  Check out [my blog](https://tim.bai.uno) | my [bento profile](https://techtim42.bai.uno/)
-- 🚀  I'm currently working on [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights.
+- 🖥️ Check out [my blog](https://tim.bai.uno)
+- 🚀 I'm currently working on [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights
+  - [TiPortfolio](https://github.com/TradeInsight-Info/TiPortfolio) an asset allocation optimisation python library for quants, intitutes and retrail traders. It includes a python libray, a cli and a skill
+- 🤖 I maintained a harness plugin for Claude Code - [PowerBall Harness](https://github.com/tim-hub/powerball-harness)
+  - There are also some personal Claude Code / Agent skills I built and use - [Powerball](https://github.com/tim-hub/powerball)
+
+
   <!-- - ⚡  If you ask me where to invest next, I would say the robotics industry. -->
 
 

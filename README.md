@@ -7,6 +7,9 @@
   - There are also some personal Claude Code / Agent skills I built and use - [Powerball](https://github.com/tim-hub/powerball)
 
 
+![GitHub Profile Trophy of tim-hub](https://github-profile-trophy.vercel.app/?username=tim-hub&theme=onedark&no-frame=true&no-bg=true&row=1)
+
+
   <!-- - ⚡  If you ask me where to invest next, I would say the robotics industry. -->
 
 

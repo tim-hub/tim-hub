@@ -1,13 +1,10 @@
 
 
 - 🖥️ Check out [my blog](https://tim.bai.uno)
-- 🚀 I'm currently working on [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights
-  - [TiPortfolio](https://github.com/TradeInsight-Info/TiPortfolio) an asset allocation optimisation python library for quants, intitutes and retrail traders. It includes a python libray, a cli and a skill
-- 🤖 I maintained a harness plugin for Claude Code - [PowerBall Harness](https://github.com/tim-hub/powerball-harness)
-  - There are also some personal Claude Code / Agent skills I built and use - [Powerball](https://github.com/tim-hub/powerball)
+- 🚀 I'm currently working at [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights
+  - [TiPortfolio](https://github.com/TradeInsight-Info/TiPortfolio) an asset allocation optimisation python library for quants, intitutes and retrail traders. It includes a Python libray, a cli and a skill
+- 🤖 There are also some personal Claude Code / Agent skills I built and use - [Powerball](https://github.com/tim-hub/powerball)
 
-
-![GitHub Profile Trophy of tim-hub](https://github-profile-trophy.vercel.app/?username=tim-hub&theme=onedark&no-frame=true&no-bg=true&row=1)
 
 
   <!-- - ⚡  If you ask me where to invest next, I would say the robotics industry. -->
@@ -15,6 +12,13 @@
 
 
 <!--
+
+- 🤖 I maintained a harness plugin for Claude Code - [PowerBall Harness](https://github.com/tim-hub/powerball-harness)
+
+![GitHub Profile Trophy of tim-hub](https://github-profile-trophy.vercel.app/?username=tim-hub&row=1)
+
+
+
 #### Language
 <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /> <img src="https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
 

@@ -3,6 +3,7 @@
 - 🖥️ Check out [my blog](https://tim.bai.uno)
 - 🚀 I'm currently working at [TradeInsight.info](https://tradeinsight.info), a tool designed to provide investors with valuable insights
   - [TiPortfolio](https://github.com/TradeInsight-Info/TiPortfolio) an asset allocation optimisation python library for quants, intitutes and retrail traders. It includes a Python libray, a cli and a skill
+  - [Ti Agent](https://tradeinsight.info/ai-agent), a CLI agent for quant and traders, think it is like Claude Code or Codex for coders, but a CLI harness for quant and traders.
 - 🤖 There are also some personal Claude Code / Agent skills I built and use - [Powerball](https://github.com/tim-hub/powerball)
 
 
